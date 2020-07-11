@@ -1,4 +1,5 @@
-![AlexHedley Logo](images/logo.png)
+<!--![AlexHedley Logo](images/logo.png)-->
+![AlexHedley Logo](https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/logo.png)
 
 - [Blog](https://alexhedley.github.io/)
 
