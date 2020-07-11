@@ -14,7 +14,7 @@
   </a>  
 
   <a href="https://www.linkedin.com/in/alexhedley/">
-    <img src="images/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+    <img src="images/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 
 <!--
@@ -32,7 +32,7 @@
 ### 📺 Streaming...
 
  <a href="https://www.youtube.com/Xandor8/">
-    <img src="images/youTube.svg" alt="Youtube" style="vertical-align:top; margin:4px">
+    <img src="images/youtube.svg" alt="Youtube" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://www.twitch.tv/alexhedley8">
