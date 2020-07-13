@@ -46,7 +46,7 @@
 ### 🚧 I build with...
 
  <a href="https://docs.microsoft.com/dotnet/csharp/">
-    <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/charp_dotnet.svg" alt="C# .NET" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/csharp_dotnet.svg" alt="C# .NET" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://docs.microsoft.com/powershell/">
