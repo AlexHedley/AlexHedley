@@ -3,6 +3,10 @@
 
 - [Blog](https://alexhedley.github.io/)
 
+  <a href="https://alexhedley.github.io/feed">
+    <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/rss.svg" alt="RSS" style="vertical-align:top; margin:4px">
+  </a>
+
 ### 📢 Find me elsewhere
 
   <a href="https://alexhedley.wordpress.com/">
@@ -31,7 +35,7 @@
 
 ### 📺 Streaming...
 
- <a href="https://www.youtube.com/Xandor8/">
+  <a href="https://www.youtube.com/Xandor8/">
     <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/youtube.svg" alt="Youtube" style="vertical-align:top; margin:4px">
   </a>
 
@@ -40,6 +44,14 @@
   </a>
 
 ### 🚧 I build with...
+
+ <a href="https://docs.microsoft.com/dotnet/csharp/">
+    <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/charp_dotnet.svg" alt="C# .NET" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://docs.microsoft.com/powershell/">
+    <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/powershell.svg" alt="PowerShell" style="vertical-align:top; margin:4px">
+  </a>
 
   <a href="https://github.com/dotnet/wpf">
     <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/wpf.svg" alt="WPF" style="vertical-align:top; margin:4px">
