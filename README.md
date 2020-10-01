@@ -1,11 +1,28 @@
 <!--![AlexHedley Logo](images/logo.png)-->
-![AlexHedley Logo](https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/logo.png)
+<!--![AlexHedley Logo](https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/logo.png)-->
+<p align="center">
+  <a href="https://alexhedley.github.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/logo.png" 
+        alt="AlexHedley Logo" 
+        width="500px" />
+  </a>
+</p>
 
-- [Blog](https://alexhedley.github.io/)
+<!-- - [Blog](https://alexhedley.github.io/) -->
 
+<p align="right">
   <a href="https://alexhedley.github.io/feed">
     <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/rss.svg" alt="RSS" style="vertical-align:top; margin:4px">
   </a>
+</p>
+
+---
+
+### 🌱 I’m currently learning
+
+Blazor 
+
+---
 
 ### 📢 Find me elsewhere
 
