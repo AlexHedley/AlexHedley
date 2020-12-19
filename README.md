@@ -23,11 +23,11 @@
 Blazor
 
 <!--
-  <a href="https://alexhedley.wordpress.com/">
+  <a href="https://fsharp.org/">
     <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/fsharp.svg" alt="F#" style="vertical-align:top; margin:4px">
   </a>
 -->
-  <a href="https://alexhedley.wordpress.com/">
+  <a href="https://fsharp.org/">
     <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/fsharp_dotnet.svg" alt="F# / .NET" style="vertical-align:top; margin:4px">
   </a>
 
