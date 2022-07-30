@@ -20,8 +20,9 @@
 
 ### 🌱 I’m currently learning
 
-Blazor
-
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor">
+    <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/blazor.svg" alt="Blazor" style="vertical-align:top; margin:4px">
+  </a>
 <!--
   <a href="https://fsharp.org/">
     <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/fsharp.svg" alt="F#" style="vertical-align:top; margin:4px">
