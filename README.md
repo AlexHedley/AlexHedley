@@ -8,10 +8,13 @@
   </a>
 </p>
 
-<!-- - [Blog](https://alexhedley.github.io/) -->
+<!-- - [Blog](https://alexhedley.github.io/blog) -->
 
 <p align="right">
-  <a href="https://alexhedley.github.io/feed">
+    <a href="https://alexhedley.github.io/blog/">
+    <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/blogger.svg" alt="Blog" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://alexhedley.github.io/blog/feed">
     <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/rss.svg" alt="RSS" style="vertical-align:top; margin:4px">
   </a>
 </p>
@@ -38,11 +41,11 @@
 
   <a href="https://alexhedley.wordpress.com/">
     <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/wordpress.svg" alt="Wordpress" style="vertical-align:top; margin:4px">
-  </a>  
+  </a>
 
   <a href="https://twitter.com/alexhedley">
     <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  </a>  
+  </a>
 
   <a href="https://www.linkedin.com/in/alexhedley/">
     <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
