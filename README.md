@@ -1,100 +1,39 @@
-<!--![AlexHedley Logo](images/logo.png)-->
-<!--![AlexHedley Logo](https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/logo.png)-->
 <p align="center">
   <a href="https://alexhedley.github.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/logo.png" 
+    <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/main/images/logo.png" 
         alt="AlexHedley Logo" 
         width="500px" />
   </a>
 </p>
 
-<!-- - [Blog](https://alexhedley.github.io/blog) -->
-
-<p align="right">
-    <a href="https://alexhedley.github.io/blog/">
-    <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/blogger.svg" alt="Blog" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://alexhedley.github.io/blog/feed">
-    <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/rss.svg" alt="RSS" style="vertical-align:top; margin:4px">
-  </a>
-</p>
-
----
+[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge)](https://alexhedley.github.io/blog/)
+[![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://alexhedley.github.io/blog/feed)
 
 ### 🌱 I’m currently learning
 
-  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor">
-    <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/blazor.svg" alt="Blazor" style="vertical-align:top; margin:4px">
-  </a>
-<!--
-  <a href="https://fsharp.org/">
-    <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/fsharp.svg" alt="F#" style="vertical-align:top; margin:4px">
-  </a>
--->
-  <a href="https://fsharp.org/">
-    <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/fsharp_dotnet.svg" alt="F# / .NET" style="vertical-align:top; margin:4px">
-  </a>
-
----
+[![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
+[![F#](https://img.shields.io/badge/F%23-3498DB?style=for-the-badge&logo=f-sharp&logoColor=white)](https://fsharp.org)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 
 ### 📢 Find me elsewhere
 
-  <a href="https://alexhedley.wordpress.com/">
-    <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/wordpress.svg" alt="Wordpress" style="vertical-align:top; margin:4px">
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexhedley/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alexhedley)
+[![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://alexhedley.wordpress.com/) Migrated to the above blog.
 
-  <a href="https://twitter.com/alexhedley">
-    <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  </a>
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2895831/alex-hedley/)
+[![Visual Studio Marketplace](https://img.shields.io/badge/Visual_Studio_Marketplace-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://marketplace.visualstudio.com/publishers/AlexHedley)
 
-  <a href="https://www.linkedin.com/in/alexhedley/">
-    <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
-  </a>
+### 📺 Streaming ...
 
-<!--
-  <a href="https://stackoverflow.com/users/2895831/alex-hedley/">
-    <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:4px">
-  </a>
--->
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/AlexHedley8/)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/alexhedley8)
 
-<!--
-  <a href="https://marketplace.visualstudio.com/publishers/AlexHedley">
-    <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/visualStudioExtensions.svg" alt="VS Marketplace" style="vertical-align:top; margin:4px">
-  </a>
--->
+### 🚧 I build with ...
 
-### 📺 Streaming...
-
-  <a href="https://www.youtube.com/Xandor8/">
-    <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/youtube.svg" alt="Youtube" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://www.twitch.tv/alexhedley8">
-    <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/twitch.svg" alt="Twitch" style="vertical-align:top; margin:4px">
-  </a>
-
-### 🚧 I build with...
-
- <a href="https://docs.microsoft.com/dotnet/csharp/">
-    <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/csharp_dotnet.svg" alt="C# .NET" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://docs.microsoft.com/powershell/">
-    <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/powershell.svg" alt="PowerShell" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://github.com/dotnet/wpf">
-    <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/wpf.svg" alt="WPF" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://github.com/xamarin/Xamarin.Forms">
-    <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/xamarin_forms.svg" alt="Xamarin.Forms" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://github.com/angular/angular.js">
-    <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/angular.svg" alt="AngularJS" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://github.com/python">
-    <img src="https://raw.githubusercontent.com/AlexHedley/AlexHedley/master/images/python.svg" alt="Python" style="vertical-align:top; margin:4px">
-  </a>
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/powershell/)
+[![Xamarin Forms](https://img.shields.io/badge/Xamarin_Forms-3498DB.svg?style=for-the-badge&logo=xamarin&logoColor=white)](https://github.com/xamarin/Xamarin.Forms)
+[![AngularJS](https://img.shields.io/badge/AngularJS-E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)](https://github.com/angular/angular.js)
+[![python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/python)
+[![WPF](https://img.shields.io/badge/WPF-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/dotnet/wpf)
