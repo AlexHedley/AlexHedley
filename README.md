@@ -13,15 +13,15 @@
 
 ## Certs
 
-[![AWS Certified Cloud Practitioner](https://raw.githubusercontent.com/alex-hedley/alex-hedley/main/images/badges/AWS-Certified-Cloud-Practitioner_badge.png "AWS Certified Cloud Practitioner")](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-[![(ISC)² Candidate](https://raw.githubusercontent.com/alex-hedley/alex-hedley/main/images/badges/isc-candidate.png "(ISC)² Candidate")](https://www.isc2.org/Membership)
-[![(ISC)² CC](https://raw.githubusercontent.com/alex-hedley/alex-hedley/main/images/badges/CC.png "(ISC)² CC")](https://www.isc2.org/Certifications/CC)
+[![AWS Certified Cloud Practitioner](https://raw.githubusercontent.com/alex-hedley/alex-hedley/main/images/badges/aws/AWS-Certified-Cloud-Practitioner_badge.png "AWS Certified Cloud Practitioner")](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+[![ISC2 Candidate](https://raw.githubusercontent.com/alex-hedley/alex-hedley/main/images/badges/isc2/isc-candidate.png "ISC2 Candidate")](https://www.isc2.org/Membership)
+[![ISC2 CC](https://raw.githubusercontent.com/alex-hedley/alex-hedley/main/images/badges/isc2/isc2-certified-in-cybersecurity-cc.png "ISC2 CC")](https://www.isc2.org/Certifications/CC)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/alexhedley/badges)
 
 ### 🌱 I’m currently learning
 
 [![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
-[![F#](https://img.shields.io/badge/F%23-3498DB?style=for-the-badge&logo=f-sharp&logoColor=white)](https://fsharp.org)
+[![F#](https://img.shields.io/badge/F%23-3498DB?style=for-the-badge&logo=fsharp&logoColor=white)](https://fsharp.org)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)](https://www.scala-lang.org/)
 
