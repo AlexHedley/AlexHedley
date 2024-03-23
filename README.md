@@ -6,10 +6,11 @@
   </a>
 </p>
 
-[![alex-hedley](https://avatars3.githubusercontent.com/u/79629950?s=50&v=4)](https://github.com/alex-hedley/)
-[![GitHub](https://img.shields.io/badge/GitHub-Alex%E2%80%93Hedley-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alex-hedley/)
 [![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge)](https://alexhedley.github.io/blog/)
 [![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://alexhedley.github.io/blog/feed)
+
+[![alex-hedley](https://avatars3.githubusercontent.com/u/79629950?s=50&v=4)](https://github.com/alex-hedley/)
+[![GitHub](https://img.shields.io/badge/GitHub-Alex%E2%80%93Hedley-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alex-hedley/)
 
 ## Certs
 
